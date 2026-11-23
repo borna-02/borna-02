@@ -6,7 +6,7 @@ I'm a Computer and Information Systems (CIS) student with an interest in technol
 
 💻 I'm currently building my programming foundation, exploring new technologies, and learning how to turn ideas into practical solutions.
 
-### 🌱 Currently Learning
+🌱 Currently Learning
 - 🌐 HTML & CSS
 - ⚡ JavaScript
 - 🎨 Bootstrap
