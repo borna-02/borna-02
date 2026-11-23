@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Borna
 
-<!--
-**borna-02/borna-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 CIS Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a Computer and Information Systems (CIS) student with an interest in technology, programming, and web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I'm currently building my programming foundation, exploring new technologies, and learning how to turn ideas into practical solutions.
+
+### 🌱 Currently Learning
+- 🌐 HTML & CSS
+- ⚡ JavaScript
+- 🎨 Bootstrap
+- 💻 C Programming
+
+### 💡 Areas of Interest
+- Web Development
+- Software Development
+- Problem Solving
+- Information Technology
+
+### 🚀 My Journey
+I believe in learning by doing, staying curious, and improving through consistent practice. I'm always looking for opportunities to learn, experiment, and grow.
+
+---
+
+✨ *Learning, building, and growing one step at a time.*
